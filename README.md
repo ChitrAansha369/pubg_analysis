@@ -5,17 +5,20 @@ This project explores data from PUBG (PlayerUnknown’s Battlegrounds) to uncove
 🔍 Project Overview
 In this project, we:
 
-Explore and clean the PUBG dataset to ensure quality.
-Analyze key features .
-Visualize patterns and trends in gameplay.
+--> Explore and clean the PUBG dataset to ensure quality .
+
+--> Analyze key features .  
+
+--> Visualize patterns and trends in gameplay.
 
 🛠️ Libraries
-Libraries:
-pandas for data manipulation
-numpy for numerical operations
-matplotlib and seaborn for data visualization
-scikit-learn for machine learning
 
-🎯 Acknowledgments
-PUBG dataset was sourced from Kaggle.
-Thanks to the PUBG community for inspiring this analysis.
+1. pandas for data manipulation
+2. numpy for numerical operations
+3. matplotlib and seaborn for data visualization
+4. scikit-learn for machine learning
+
+🎯 Acknowledgments:
+
+- PUBG dataset was sourced from Kaggle.
+- Thanks to the PUBG community for inspiring this analysis.
